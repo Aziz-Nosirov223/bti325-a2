@@ -1,4 +1,15 @@
-
+/*********************************************************************************
+* BTI325 – Assignment 2
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+* No part of this assignment has been copied manually or electronically from any other source
+* (including web sites) or distributed to other students.
+*
+* Name: Aziz Nosirov Student ID: 115673188 Date: Oct 8 2022
+*
+* Online (Cyclic) URL: 
+* _______________________________________________________
+*
+********************************************************************************/ 
 var express = require('express');
 var path = require('path');
 var dataService = require('./data-service.js');
